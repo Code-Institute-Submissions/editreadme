@@ -35,6 +35,18 @@ The footer section includes links to the relevant social media sites for Plane S
 The footer is valuable to the user as it encourages them to keep connected via social media such as Facebook,Twitter,Instagram,youtube.
 
 
+# GALLERY
+
+The gallery will provide the user with supporting images to see what the meet ups look like.
+This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+
+
+# THE SIGN UP PAGE
+
+This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+
+
+
 
 
 
