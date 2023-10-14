@@ -13,3 +13,9 @@ and trade stories and also amazing  pictures and gagets and cameras.
 ## FEATURES NAVAGATION BAR
 
 Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+
+
+
+
+
+
