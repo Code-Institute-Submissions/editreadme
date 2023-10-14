@@ -29,6 +29,12 @@ Meet up at al Airports all around the country and also al over the world .
 There is no meet up times as people enjoy spotting 24 hours a day 365 day a year so you will never be alone .
 
 
+# THE FOOTER
+
+The footer section includes links to the relevant social media sites for Plane Spotting. The links will open to a new tab to allow easy navigation for the user.
+The footer is valuable to the user as it encourages them to keep connected via social media such as Facebook,Twitter,Instagram,youtube.
+
+
 
 
 
