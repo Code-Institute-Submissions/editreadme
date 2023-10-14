@@ -16,6 +16,13 @@ Featured on all three pages, the full responsive navigation bar includes links t
 
 
 
+ # Spotting Ethos section
+
+ The club ethos section will allow the user to see the benefits of joining the Plane Spotting meetups, as well as the benefits of spotting overall.
+This user will see the value of signing up for the  meetups. This should encourage the user to consider spotting as their form of enjoyment.
+
+
+
 
 
 
