@@ -8,6 +8,6 @@ and trade stories and also amazing  pictures and gagets and cameras.
 
 
 
-# FERATURES.
+# FEATURES.
 
-## FEATURES NAV BAR
+## FEATURES NAVAGATION BAR
